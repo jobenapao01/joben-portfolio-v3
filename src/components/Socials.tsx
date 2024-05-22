@@ -23,7 +23,7 @@ const icons = [
 	},
 
 	{
-		path: 'https://mail.google.com/mail/?view=cm&to=work.jobenapao@gmail.com&su=LetsTalk&body=&bcc=dakota@example.com',
+		path: 'https://mail.google.com/mail/?view=cm&to=work.jobenapao@gmail.com&su=LetsTalk&body=&bcc=work.jobenapao@gmail.com',
 		name: <SiGmail />,
 	},
 ];
