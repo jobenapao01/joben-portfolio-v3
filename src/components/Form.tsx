@@ -94,6 +94,7 @@ const Form = () => {
 					placeholder='Name'
 					value={form.name}
 					onChange={handleChange}
+					disabled={loading}
 				/>
 				<User
 					className='absolute right-6'
@@ -107,6 +108,7 @@ const Form = () => {
 					placeholder='Email'
 					value={form.email}
 					onChange={handleChange}
+					disabled={loading}
 				/>
 				<MailIcon
 					className='absolute right-6'
@@ -119,6 +121,7 @@ const Form = () => {
 					placeholder='Type your message here'
 					value={form.message}
 					onChange={handleChange}
+					disabled={loading}
 				/>
 				<MessageSquare
 					className='absolute right-6 top-4'
