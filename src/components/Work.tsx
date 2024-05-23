@@ -37,7 +37,7 @@ export const projectsData = [
 			'Stripe',
 		],
 		category: 'MERN',
-		name: 'HotelBNB',
+		name: 'Foodgrub',
 		description: 'A food delivery web app.',
 		link: 'https://foodgrub-frontend.onrender.com/',
 		github: 'https://github.com/jobenapao01/foodgrub-frontend',
