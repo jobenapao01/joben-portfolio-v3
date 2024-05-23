@@ -11,7 +11,7 @@ import { badgeIcons } from '@/constants/badgeIcons';
 
 const Hero = () => {
 	return (
-		<section className='py-12 md:py-24 h-[84vh] md:pt-28  bg-hero bg-no-repeat bg-bottom dark:bg-none bg-cover mb-12 md:mb-0'>
+		<section className='py-12 md:py-24 min-h-[84vh] md:pt-28 bg-hero bg-no-repeat bg-bottom dark:bg-none bg-cover '>
 			<div className='container mx-auto'>
 				<div className='flex justify-between gap-x-8 '>
 					{/* text */}

@@ -26,12 +26,12 @@ const Header = () => {
 	return (
 		<header
 			className={cn(
-				'sticky top-0 z-30 transition-all',
+				'sticky top-0 z-30 transition-all w-full',
 				header ? 'py-4 bg-white shadow-lg dark:bg-accent' : 'py-6 dark:bg-transparent',
 				pathname === '/' && 'bg-[#fef9f5}'
 			)}
 		>
-			<div className='container mx-auto '>
+			<div className='container mx-auto'>
 				<div className='flex justify-between items-center'>
 					<Logo theme={theme} />
 					<div className='flex items-center gap-x-6'>
