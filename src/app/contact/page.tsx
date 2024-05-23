@@ -14,9 +14,7 @@ const Contact = () => {
 							Let&apos;s Talk
 						</div>
 						<h1 className='h1 max-w-md mb-8'>Let&apos;s Work Together</h1>
-						<p className='subtitle max-w-[400px]'>
-							Lorem ipsum dolor sit amet consectetur adipisicing elit.
-						</p>
+						<p className='subtitle max-w-[400px]'>Let&apos;s discuss more about your ideas.</p>
 					</div>
 					{/* illustration */}
 					<div className='hidden md:flex w-full bg-contact_illustration_light dark:bg-contact_illustration_dark bg-no-repeat bg-contain bg-top'></div>
