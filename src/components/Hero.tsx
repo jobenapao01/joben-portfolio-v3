@@ -19,7 +19,8 @@ const Hero = () => {
 						<div className='text-sm uppercase font-semibold mb-4 text-primary tracking-[4px]'>
 							Web Developer
 						</div>
-						<h1 className='h1 mb-4'>Hello, I am Joben Ong Apao</h1>
+						<h1 className='h1 mb-4'>Hello, I am </h1>
+						<h1 className='h1 mb-4'>Joben Ong Apao </h1>
 						<p className='subtitle max-w-[490px] mx-auto md:mx-0'>
 							Hello! I&apos;m a passionate frontend web developer with a strong foundation in the
 							fundamentals of web development. I&apos;m eager to learn and grow, and I&apos;m
