@@ -47,7 +47,7 @@ const Hero = () => {
               </Link>
 
               <Link
-                href='/APAO-JOBEN-CV.pdf'
+                href='/Apao, Joben - CV.pdf'
                 download='Apao, Joben CV.pdf'
                 target='_blank'
               >
